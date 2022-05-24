@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ishar</h1>
 <h3 align="center">A student developer from India</h3>
 
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://twitter.com/tweet_ishar)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishar19&label=Profile%20views&color=0e75b6&style=flat" alt="ishar19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishar19" alt="ishar19" /></a> </p>
