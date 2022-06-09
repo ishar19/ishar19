@@ -78,20 +78,16 @@ Sunday       23 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 mins              ████████████████████░░░░░   83.17% 
-C++                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   9.54% 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.21% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pinit_frontend           2 mins              ██████████████████████░░░   90.46% 
-GCI-DSA                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   9.54%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -111,7 +107,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ishar19/ishar19/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/06/2022 18:43:26 UTC
+ Last Updated on 09/06/2022 18:42:47 UTC
 <!--END_SECTION:waka-->
 
 
