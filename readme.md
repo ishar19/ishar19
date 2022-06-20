@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/tweet_ishar" target="blank"><img src="https://img.shields.io/twitter/follow/tweet_ishar?logo=twitter&style=for-the-badge" alt="tweet_ishar" /></a> </p>
 
-- 🔭 I’m currently working on [CareerAtTech](https://github.com/ishar19/career-at-tech)
+- 🔭 I’m currently working on [React Skills](https://github.com/ishar19/share-me-react-app)
 
 - 🌱 I’m currently learning **React, NextJs**
 
