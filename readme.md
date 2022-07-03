@@ -78,16 +78,18 @@ Sunday       23 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        3 mins              ██████████████░░░░░░░░░░░   58.32% 
+C++                      2 mins              ██████████░░░░░░░░░░░░░░░   41.68%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+C language               3 mins              ██████████████░░░░░░░░░░░   58.32% 
+career-at-tech           2 mins              ██████████░░░░░░░░░░░░░░░   41.68%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 mins              █████████████████████████   100.0%
 
 ```
 
@@ -107,7 +109,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ishar19/ishar19/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/07/2022 18:41:20 UTC
+ Last Updated on 03/07/2022 18:41:13 UTC
 <!--END_SECTION:waka-->
 
 
