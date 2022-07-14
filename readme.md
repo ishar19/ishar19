@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishar19" alt="ishar19" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tweet_ishar" target="blank"><img src="https://img.shields.io/twitter/follow/tweet_ishar?logo=twitter&style=for-the-badge" alt="tweet_ishar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ishartwt" target="blank"><img src="https://img.shields.io/twitter/follow/tweet_ishar?logo=twitter&style=for-the-badge" alt="tweet_ishar" /></a> </p>
 
 - 🔭 I’m currently working on [React Skills](https://github.com/ishar19/share-me-react-app)
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tweet_ishar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tweet_ishar" height="30" width="40" /></a>
+<a href="https://twitter.com/ishartwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tweet_ishar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ishar-jain-8401031b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishar-jain-8401031b5" height="30" width="40" /></a>
 <a href="https://instagram.com/real.levi_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="real.levi_7" height="30" width="40" /></a>
 </p>
