@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishar19" alt="ishar19" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ishartwt" target="blank"><img src="https://img.shields.io/twitter/follow/tweet_ishar?logo=twitter&style=for-the-badge" alt="tweet_ishar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ishartwt" target="blank"><img src="https://img.shields.io/twitter/follow/ishartwt?logo=twitter&style=for-the-badge" alt="ishartwt" /></a> </p>
 
 - 🔭 I’m currently working on [React Skills](https://github.com/ishar19/share-me-react-app)
 
@@ -33,9 +33,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
