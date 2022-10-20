@@ -58,11 +58,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 312 Contributions in the Year 2022
+> 🏆 313 Contributions in the Year 2022
  > 
 > 📦 59.0 kB Used in GitHub's Storage 
  > 
@@ -101,16 +101,16 @@ Sunday       39 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               35 mins             █████████████████████████   100.0%
+JavaScript               22 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.0%
+VS Code                  22 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-spotdot                  35 mins             █████████████████████████   100.0%
+spotdot                  22 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    35 mins             █████████████████████████   100.0%
+Linux                    22 mins             █████████████████████████   100.0%
 
 ```
 
@@ -131,7 +131,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ishar19/ishar19/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/10/2022 19:03:50 UTC
+ Last Updated on 20/10/2022 19:04:24 UTC
 <!--END_SECTION:waka-->
 
 
